@@ -1,4 +1,4 @@
-# Publish Backdated Posts on Medium
+# Medium Publisher (Publish Backdated Posts on Medium)
 
 If you have writings published in other places and want to publish them to medium with their actual publication time, this CLI tool can help you.
 
