@@ -20,7 +20,7 @@ The CLI tool assumes your posts are in Markdown format with a jekyll header. Her
 
 ```markdown
 ---
-title: How to root / unroot Nexus 5X
+title: Everything is Awesome 
 date: 2016-03-17
 ---
 # My header
